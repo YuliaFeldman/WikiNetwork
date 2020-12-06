@@ -1,0 +1,11 @@
+A network of Wikipedia articles.
+ Implemented in Python using Jaccard Index and iterative Page Rank Algorithm for articles.
+
+==================
+=  Description:  =
+==================
+This program contains two file: article.py and wikinetwork.py
+article.py contains the class Article which represents an article.
+wikinetwork.py contains the class WikiNetwork which represents a network of
+objects of the class Article.
+
